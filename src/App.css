@@ -1,0 +1,40 @@
+.App {
+    width: 100%;
+    padding-top: 10px;
+    background-color: #E4E4D0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    
+    width: 150px;
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2px;
+}
+
+.calculator--container {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #AEC3AE;
+    border-radius: 20px;
+}
+
+.fila {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
